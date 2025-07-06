@@ -1,5 +1,5 @@
 {
-  "status": true,
-  "reason": "Bot sedang maintenance.",
-  "activated_at": "2025-07-06T17:28:01.118Z"
+  "status": false,
+  "reason": "Maintenance nonaktif",
+  "activated_at": null
 }
